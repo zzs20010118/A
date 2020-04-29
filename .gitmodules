@@ -1,0 +1,3 @@
+[submodule "B"]
+	path = B
+	url = git@github.com:zzs20010118/B.git
